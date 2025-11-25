@@ -1,5 +1,5 @@
 # Enterprise Virtualisation & Networking Project  
-**Diploma in IT (Advanced Networking & Cyber Security) — [Institution Name]**
+**Diploma in IT (Advanced Networking & Cyber Security) — [Swinburne University of Technology - TAFE Division]**
 
 ## Overview  
 This project involved designing, implementing and documenting an enterprise-level virtualisation and network infrastructure.  
