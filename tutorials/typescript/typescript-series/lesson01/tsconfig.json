@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "esnext",
+    "rootDir": "./src",
+    "outDir": "./build/js",
+    "strict": true,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    // "noEmitOnError": true    
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
+
