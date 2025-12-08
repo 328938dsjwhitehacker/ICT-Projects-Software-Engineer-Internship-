@@ -24,8 +24,8 @@ dist-ssr
 *.sw?
 
 # Expo / React Native
-node_modules/
-.expo/
+# node_modules/
+# .expo/
 .expo-shared/
 android/build/
 ios/Pods/
