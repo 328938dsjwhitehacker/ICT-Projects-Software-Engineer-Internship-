@@ -4,18 +4,47 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
 
-# Build output
+# Dependency directories
+node_modules/
+
+# Expo directories
+.expo/
+.expo-shared/
+
+# Metro bundler cache
+.cache/
+.expo/web-cache/
+
+# React Native / Expo build output
+android/
+ios/
 dist/
-dist-ssr/
+build/
 
-# Editor settings
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# VS Code settings
 .vscode/*
 !.vscode/extensions.json
-.idea/
-.DS_Store
 
-# Expo / React Native
-.expo-shared/
-android/build/
-ios/Pods/
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Bundler / package manager files
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# By project
+web-build/
+
