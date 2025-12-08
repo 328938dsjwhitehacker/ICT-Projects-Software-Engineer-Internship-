@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Expo / React Native
+node_modules/
+.expo/
+.expo-shared/
+android/build/
+ios/Pods/
+
