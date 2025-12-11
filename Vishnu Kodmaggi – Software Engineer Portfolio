@@ -1,0 +1,41 @@
+Welcome to my portfolio repository. This collection highlights my journey from academic foundations in **Advanced Networking & Cyber Security** to hands-on projects in **React, TypeScript, Supabase, and Google Cloud Platform (GCP)**.  
+I am currently pursuing a **Bachelor of IT (part-time, advanced standing)** and applied for the **Polarbear Software Engineer Internship** to gain real-world experience in full-stack development.
+
+## 🎓 Academic Foundation
+- **Diploma of Information Technology (Advanced Networking and Cyber Security)**
+- Sample coursework included to demonstrate:
+- Understanding of network protocols
+- Secure system configuration
+- Scripting for automation
+- Note: Full assessment projects were excluded to respect academic IP, but representative samples are provided.
+
+- ### 1. React + TypeScript Shopping Card
+- **Tech stack: ** React, TypeScript
+- **Features:** Dynamic product listing, state management, reusable components
+- **Status:** Completed
+- [View Project](./typescript-card)
+
+  ### 2. Supabase Course Project
+  - **Tech stack:** React, Supabase
+  - **Features:** CRUD operations, authentication, role-based access policies (RLS)
+  - **Status:** In progress - authentication and deployment coming soon
+  - [View Project](./supabase-course)
+ 
+    ---
+
+    ### 3. Google Cloud Platform Work
+    - **Tech stack:** GCP services
+    - **Focus:** Cloud deployment, storage, and serverless functions
+    - **Documentation:** [Google_CloudREADME.md](./Google_CloudREADME.md)
+
+## 🚀 Next Steps
+- Deploy Supabase project with full authentication
+- Add screenshots and demo videos
+- Write blog-style reflections on each project
+
+---
+
+## 📬 Contact
+- **Email:** [v.sky@myyahoo.com]
+- **LinkedIn:** [https://www.linkedin.com/in/vishnu-kodmaggi-1953a7379/]
+- **GitHub:** [https://github.com/328938dsjwhitehacker](https://github.com/328938dsjwhitehacker)
